@@ -9,5 +9,5 @@ We hope to contribute to the health and well-being of Iranian society through th
 <div align="center">
   <img 
     style="width: 700px;"
-    src="https://github.com/ghalb1403/ghalb1403/blob/main/Preview.jpg">
+    src="https://github.com/ghalb1403/blob/main/Preview.jpg">
 </div>
