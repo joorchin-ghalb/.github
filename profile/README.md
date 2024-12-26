@@ -11,3 +11,11 @@ We hope to contribute to the health and well-being of Iranian society through th
     style="width: 700px;"
     src="https://github.com/ghalb1403/.github/blob/main/Preview.jpg">
 </div>
+
+### Website
+
+Ghalb1403 is a responsive image gallery built with HTML, CSS, and JavaScript to promote heart health awareness. Explore the website here: [Ghalb1403.github.io](https://ghalb1403.github.io/)
+
+### Materials Repository
+
+Access all project resources and assets in our [Materials Repository](https://github.com/ghalb1403/Materials).
